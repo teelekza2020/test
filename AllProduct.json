@@ -1,22 +1,11 @@
 {
-  "AllProduct" : [
-    {
-        "nameProduct": "Latte with turnmeric",
-        "idProduct": "0000",
-        "priceProduct": 50,
-        "detailProduct": "Iced coffee",
-    }
-    {
-        "nameProduct": "Latte with turnmeric2",
-        "idProduct": "0001",
-        "priceProduct": 60,
-        "detailProduct": "Iced coffee2",
-    }
-    {
-        "nameProduct": "Latte with turnmeric3",
-        "idProduct": "0002",
-        "priceProduct": 30,
-        "detailProduct": "Iced coffee3",
-    }
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
+    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
+    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
+    { "id": "4", "title": "Inception", "releaseYear": "2010" },
+    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
   ]
 }
